@@ -104,6 +104,13 @@ header p{
 .menu{
 	background: #707070;
 }
+.menuAds{
+	background: #534E52;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 5px 0;
+}
 .menu-zag{
 	font-weight: bold;
 	font-size: 24px;
